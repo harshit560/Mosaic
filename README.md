@@ -1,3 +1,3 @@
 # Mosaic
-Mosaic multiple rasters
-Install gdal
+#Mosaic multiple rasters
+#Install gdal
