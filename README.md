@@ -1,4 +1,3 @@
 # Mosaic
 Mosaic multiple rasters
-#Requirements
-Install gdal
+#Requirements- install gdal
